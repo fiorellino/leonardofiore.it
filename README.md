@@ -7,7 +7,7 @@
 
 Titolo: Semistable models of hyperelliptic curves over residue characteristic 2
 
-(Tesi.pdf)[Download]
+[Download](Tesi.pdf)
 
 ## Corsi di recupero
-(https://github.com/fiorellino/corsi-recupero)[Programmi e materiali]
+[Programmi e materiali](https://github.com/fiorellino/corsi-recupero)

@@ -5,7 +5,7 @@
 
 ## Tesi di laurea (Master's Thesis)
 
-Titolo: Semistable models of hyperelliptic curves over residue characteristic 2
+Semistable models of hyperelliptic curves over residue characteristic 2
 
 [Download](Tesi.pdf)
 

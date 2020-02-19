@@ -1,7 +1,5 @@
 # Leonardo Fiore
-## Email
 ![](email.png)
-
 
 ## Tesi di laurea (Master's Thesis)
 

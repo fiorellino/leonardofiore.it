@@ -1,7 +1,7 @@
 # AS 2019-20 Fisica 2G e 2H
 ## Schede di esercizi
 
-[Schede in formato PDF](recupero/SchedeFisica-AS2021.pdf ':ignore')
+[Schede in formato PDF](SchedeFisica-AS2021.pdf)
 
 [Sorgenti LaTeX delle schede](https://github.com/fiorellino/corsi-recupero-schede)
 
@@ -14,14 +14,14 @@ ESERCIZI: Esercizio su torchio idraulico + esercizio su equilibrio tra due fluid
 ### Seconda lezione
 Spinta di Archimede. Peso apparente. Galleggiamento.
 
-ESERCIZI: Numeri 1 a 5 della scheda "GALLEGIAMENTO".
+ESERCIZI: Numeri da 1 a 5 della scheda "GALLEGIAMENTO".
 
 ### Terza lezione
-Stato termico, temperatura, scale termometriche (Celsius e Kelvin).
+Stato termico, temperatura, scale termometriche (Celsius e Kelvin).  Dilatazione termica lineare, superficiale e volumica.
 
-ESERCIZI: Numeri da 1, 2, 3, 5 della scheda "TERMOLOGIA 1".
+ESERCIZI: Numeri 1, 2, 3, 5 della scheda "TERMOLOGIA 1".
 
 ### Quarta lezione
 Equilibrio termico, calore, capacità termica, calore specifico. 
 
-ESERCIZI: umeri 8, 9 della scheda "TERMOLOGIA 1" + numeri 1, 2, 3, 5 della scheda "TERMOLOGIA 2".
+ESERCIZI: Numeri da 1 a 5 della scheda "TERMOLOGIA 2".

@@ -1,7 +1,7 @@
 # AS 2019-20 Fisica 2G e 2H
 ## Schede di esercizi
 
-[Schede in formato PDF](SchedeFisica-AS2021.pdf)
+[Schede in formato PDF](recupero/SchedeFisica-AS2021.pdf ':ignore')
 
 [Sorgenti LaTeX delle schede](https://github.com/fiorellino/corsi-recupero-schede)
 
